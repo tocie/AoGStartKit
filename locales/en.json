@@ -1,4 +1,4 @@
 {
-    "WELCOME_BASIC": "Hello, welcome!",
+    "WELCOME_BASIC": "Hello, welcome! The date is %s",
     "DATE": "The date is %s"
  }
